@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", serif;
+}
+
+body {
+  width: 100%;
+  max-height: 120vh;
+}
+
+:root {
+  --primary-color: #3d3838;
+  --secondary-color: #000000;
+  --background-color: #ff0c0c;
+}

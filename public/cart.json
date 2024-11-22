@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Moletom compsuply Branco",
+        "description": "Moletom casual 1",
+        "price": 199.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3836/moletom-novo-bird-off-costas.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Moletom compsuply CALIGRAFIA",
+        "description": "Moletom casual 4",
+        "price": 239.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/08/produto/3136/moletom-zip-up-caligrafia-frente-off-white-fundo-cinza.png"
+    },
+    {
+        "id": 3,
+        "name": "Moletom compsuply BLEEDING",
+        "description": "Moletom casual, ideal para looks do dia a dia.",
+        "price": 299.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3864/camada-77.jpg"
+    }
+]

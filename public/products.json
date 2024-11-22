@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Moletom compsuply Branco",
+        "description": "Moletom casual 1",
+        "price": 199.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3836/moletom-novo-bird-off-costas.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Moletom compsupli BLUE RAYS",
+        "description": "Moletom casual 2 ",
+        "price": 249.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3895/camada-122.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Moletom compsuply URBAN",
+        "description": "Moletom casual 3",
+        "price": 229.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/10/produto/3656/casaco-moletom-oversized-urban-off.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Moletom compsuply CALIGRAFIA",
+        "description": "Moletom casual 4",
+        "price": 239.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/08/produto/3136/moletom-zip-up-caligrafia-frente-off-white-fundo-cinza.png"
+    },
+    {
+        "id": 5,
+        "name": "Moletom compsuply BLEEDING",
+        "description": "Moletom casual, ideal para looks do dia a dia.",
+        "price": 299.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3864/camada-77.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Moletom compsuply STREET",
+        "description": "Moletom com capuz, perfeito para dias frios e confortáveis.",
+        "price": 279.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/10/produto/3680/casaco-moletom-oversized-street-preto-costas.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Moletom compsuply SHARK ATTACK",
+        "description": "Moletom moderno com design inovador para looks urbanos.",
+        "price": 239.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3889/camada-113.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Moletom compsuply FUCK THE PREJUDICE",
+        "description": "Moletom de alta qualidade com acabamento premium.",
+        "price": 289.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3849/camada-54.jpg"
+    },
+    {
+        "id": 9,
+        "name": "CASACO MOLETOM OVERSIZED - COMP BORDADO",
+        "description": "Com uma modelagem oversized, o moletom tem um melhor caimento no corpo e traz um estilo unico pra quem usa COMP!",
+        "price": 259.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/09/produto/3311/moletom-bordado-comp-off-white-over.png"
+    },
+    {
+        "id": 10,
+        "name": "CASACO MOLETOM OVERSIZED - LEGACY",
+        "description": "Todas as nossas estampas são feitas em DTF, é um método de impressão digital, em vez de usar tinta líquida, utilizamos uma película de tinta sólida de alta qualidade com uma grande resistência.",
+        "price": 279.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/10/produto/3659/casaco-moletom-oversized-legacy-preto.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Moletom compsuply GLAMOUR",
+        "description": "Moletom de alta qualidade com acabamento premium.",
+        "price": 179.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3861/camada-71.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Moletom compsuply FEROCITY",
+        "description": "Moletom com capuz, perfeito para dias frios e confortáveis.",
+        "price": 239.99,
+        "image": "https://compsupply.cdn.magazord.com.br/img/2024/11/produto/3856/camada-64.jpg"
+    }
+]
